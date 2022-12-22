@@ -20,9 +20,9 @@ description: >-
   From individual users to large organizations, everyone is at risk of cyber attacks, and it's essential to take steps to protect yourself and your information.
   In this blog, we'll explore the various aspects of cybersecurity and provide tips and advice on how to stay safe online. 
   From choosing secure passwords to understanding the latest threats, we'll help you stay one step ahead of the bad guys and keep your information safe.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: neon
+twitter_username: infracybersec
+github_username: infracybersec
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -68,22 +68,20 @@ author:
       url: "https://infrasecurityservices.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/infracybersec"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/infracybersec"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/infracybersec"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/infracybersec"
+
 
 defaults:
   # _posts
