@@ -5,5 +5,9 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Contact Us"
+    url: https://infrasecurityservices.com/contact/
+  - title: "Website"
+    url: https://infrasecurityservices.com/
   # - title: "About"
   #   url: /about/
